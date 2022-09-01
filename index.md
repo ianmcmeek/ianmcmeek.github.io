@@ -2,28 +2,22 @@
 
 ---
 
-### Category Name 1 
+### Curriculum
 
-[Project 1 Title](/sample_page)
+[Gerrymandering (9th grade math, civics)](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 3 Title](http://example.com/)
+[Egyptian Fractions (5th grade math)](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 
-### Category Name 2
+### Data Science & Math
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+- [Advanced Placement Test Participation Dashboard](https://github.com/ianmcmeek/AP-Test-Participation-Dashboard/blob/main/Supplemental/Analysis.md)
+- [Gender Trends in Long Distance Running Performance](http://example.com/)
+- [Graph Theory Research Paper](http://example.com/)
 
 ---
 
