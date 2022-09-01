@@ -26,7 +26,7 @@
   * [Gender Trends in Long Distance Running Performance](http://example.com/)
   
 ---
-  * [Graph Theory Research Paper](http://example.com/)
+  * [Graph Theory Research Paper](https://arxiv.org/abs/1808.05835)
 
 ---
 ---
