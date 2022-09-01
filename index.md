@@ -5,17 +5,18 @@
 ### Curriculum
 
 [Gerrymandering (9th grade math, civics)](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/gerrymandering_thumbnail.jpg"/>
 
 ---
 [Egyptian Fractions (5th grade math)](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/egyptian_fractions_thumbnail.jpg?raw=true"/>
 
 ---
 
 ### Data Science & Math
 
 - [Advanced Placement Test Participation Dashboard](https://github.com/ianmcmeek/AP-Test-Participation-Dashboard/blob/main/Supplemental/Analysis.md)
+<img src="images/dashboard_thumbnail.png?raw=true"/>
 - [Gender Trends in Long Distance Running Performance](http://example.com/)
 - [Graph Theory Research Paper](http://example.com/)
 
