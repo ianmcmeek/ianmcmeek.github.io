@@ -5,7 +5,7 @@
 ### Curriculum
 
 [Gerrymandering (9th grade math, civics)](/sample_page)
-<img width="100" height="100 src="images/gerrymandering_thumbnail.jpg?raw=true"/>
+<img src="images/gerrymandering_thumbnail.jpg"/>
 
 ---
 [Egyptian Fractions (5th grade math)](/pdf/sample_presentation.pdf)
