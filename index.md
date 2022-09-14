@@ -20,7 +20,7 @@ All materials for a three day project.
 
 ---
 More Things!
-  * [2nd place submission to a data science lesson plan competition](https://www.datascience4everyone.org/post/data-science-for-everyone-ds4e-announces-bite-sized-lesson-plan-competition-winners) (lesson materials linked on webpage)
+  * [2nd place submission](https://www.datascience4everyone.org/post/data-science-for-everyone-ds4e-announces-bite-sized-lesson-plan-competition-winners) to a data science lesson plan competition (lesson materials linked on webpage)
 
 ---
 ---
@@ -38,7 +38,7 @@ More Things!
   
 ---
 More Things!
-  * Co-Authored [Graph Theory Research Paper](https://arxiv.org/abs/1808.05835)
+  * Co-authored [graph theory research paper](https://arxiv.org/abs/1808.05835)
 
 ---
 ---
