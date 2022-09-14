@@ -4,12 +4,12 @@
 
 ### Curriculum
 
-  * [Gerrymandering (9th grade math, civics)](/sample_page)
+  * [Gerrymandering (9th grade math, civics)](https://drive.google.com/drive/folders/1sv2A-RY43OXeIYjdW51A7RfEFDGX-xAi?usp=sharing)
 
 <img height="200" src="images/gerrymandering_thumbnail.jpg"/>
 
 ---
-  * [Egyptian Fractions (5th grade math)](/pdf/sample_presentation.pdf)
+  * [Egyptian Fractions (5th grade math)](https://drive.google.com/drive/folders/1D2_mVI2BtmnV_lVx0j5Kw97r9slnq0WP?usp=sharing)
 
 <img height="200" src="images/egyptian_fractions_thumbnail.jpg"/>
 
