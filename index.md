@@ -23,7 +23,9 @@
 <img height="200" src="images/dashboard_thumbnail.png"/>
 
 ---
-  * [Gender Trends in Long Distance Running Performance](http://example.com/)
+  * [Gender Trends in Long Distance Running Performance](https://github.com/ianmcmeek/Running-Performance-Trends/blob/main/README.md)
+
+<img height="200" src="images/running_thumbnail.png"/>
   
 ---
   * [Graph Theory Research Paper](https://arxiv.org/abs/1808.05835)
