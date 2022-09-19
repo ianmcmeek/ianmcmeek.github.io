@@ -21,6 +21,7 @@ All materials for a three day project.
 ---
 More Things!
   * [2nd place submission](https://www.datascience4everyone.org/post/data-science-for-everyone-ds4e-announces-bite-sized-lesson-plan-competition-winners) to a data science lesson plan competition (lesson materials linked on webpage)
+  * [Desmos activity](https://teacher.desmos.com/activitybuilder/custom/63233179fed9ac064088948e) providing 3rd graders with interactive fractions practice
 
 ---
 ---
