@@ -21,7 +21,7 @@ All materials for a three day project.
 ---
 More Things!
   * [2nd place submission](https://www.datascience4everyone.org/post/data-science-for-everyone-ds4e-announces-bite-sized-lesson-plan-competition-winners) to a data science lesson plan competition (lesson materials linked on webpage)
-  * Desmos activities for [3rd grade](https://teacher.desmos.com/activitybuilder/custom/63233179fed9ac064088948e) (fraction sense) and [algebra](https://teacher.desmos.com/activitybuilder/custom/632ba593372919ceb27c2d2f) (linear, quadratic, and exponential functions)
+  * Selected Desmos activities: [3rd grade](https://teacher.desmos.com/activitybuilder/custom/63233179fed9ac064088948e) | [Middle school](https://teacher.desmos.com/activitybuilder/custom/63658699da0856e192beee67) | [Algebra](https://teacher.desmos.com/activitybuilder/custom/632ba593372919ceb27c2d2f) | [Calculus](https://teacher.desmos.com/activitybuilder/custom/636d09714cbfe3dcdfc580eb)
 
 ---
 ---
