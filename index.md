@@ -46,6 +46,7 @@ More Things!
 More Things!
   * Co-authored [graph theory research paper](https://arxiv.org/abs/1808.05835)
   * [Pilot study](https://tinyurl.com/McMeekingPilotStudy) on visual proofs from mathematical cognition seminar
+  * {% include desmosGeometry.html %}
 
 ---
 ---
